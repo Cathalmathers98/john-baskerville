@@ -1,7 +1,7 @@
 John Baskerville
 ================
 
-### Letter Founder & Master Printer
+## Letter Founder & Master Printer
 
 John Baskerville (1706–1775) was an English businessman whose entrepreneurial attentions included *japanning* and *papier-mâché*; he is, however, best remembered as a typographer and printer, not least for the design of the eponymous typeface which, to this very day, bears his name.
 
@@ -19,7 +19,7 @@ Baskerville was responsible for numerous innovations in printing, paper and ink 
 —John Baskerville, preface to Milton, 1758 (Anatomy of a Typeface)
 
 
-### The Typeface
+## The Typeface
 
 Baskerville is a Transitional serif typeface designed by John Baskerville in 1757, positioned between the Old Style typefaces of *William Caslon*, and the modern styles of *Giambattista Bodoni* and *Firmin Didot*.
 
@@ -28,7 +28,7 @@ The typeface is the result of Baskerville’s intent to improve upon the types o
 Baskerville’s work was criticised by jealous competitors and soon fell out of favour. Since the 1920s, however, numerous revivals of Baskerville have been released by Linotype, Monotype, and other type foundries. [Émigré](https://www.emigre.com/) released a popular revival of the typeface in 1996 called Mrs Eaves, named for Baskerville’s wife, Sarah Eaves. Baskerville represents the peak of Transitional type face design and bridges the gap between Old Style and Modern type design.
 
 
-### Mrs Eaves
+## Mrs Eaves
 
 Mrs Eaves is named after Sarah Eaves, the woman who became John Baskerville’s wife. As Baskerville was setting up his printing and type business, Mrs. Eaves moved in with him as a live-in housekeeper, eventually becoming his wife after the death of her first husband, Mr. Eaves. Mrs Eaves is a revival of the types of English printer and punchcutter John Baskerville, and is related to contemporary Baskerville typefaces.
 
